@@ -1,0 +1,3 @@
+"value" = "1"
+"value1" = "2"
+"video" = "/Laba5/extendedTask/files/cat.mp4"
